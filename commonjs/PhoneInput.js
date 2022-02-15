@@ -764,7 +764,7 @@ var PhoneNumberInput = (0, _reactLifecyclesCompat.polyfill)(_class = (_temp = _c
 	/**
   * By default use icons from `flag-icon-css` github repo.
   */
-	flagsPath: '../flags_png/4x3/',
+	flagsPath: '../flags/4x3/',
 
 	/**
   * Default "International" country `<select/>` option icon (globe).
